@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @meyerleif
+- 👀 I’m interested in Data scientist
